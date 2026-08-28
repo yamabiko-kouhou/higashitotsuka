@@ -51,7 +51,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    background: #f2f5f7;
+    background: #f3faed;
     z-index: 50;
 }
 .header-inner {
@@ -114,7 +114,7 @@ h1 img {
 	}
 	h1 img {
 		padding: 3px 7px 2px;
-		background: #f2f5f7;
+		background: #f3faed;
 	}
 	#header-nav-pc {
 		display: none;
@@ -599,7 +599,7 @@ section.bg {
 		width: 100%;
 		padding-bottom: 0;
 		padding-top: 7px;
-		background: #f2f5f7;
+		background: #f3faed;
 		text-shadow: none;
 	}
 	.hero .hero-title {
@@ -624,7 +624,7 @@ section.bg {
 	position: absolute;
 	right: 0;
 	bottom: 0;
-	background: #f2f5f7;
+	background: #f3faed;
 	padding: 15px 20px 5px;
 	max-width: 50%;
 }
@@ -1670,7 +1670,7 @@ a.ap {
 .first_flow ul {
 	padding: 10px 20px;
 	list-style: inside;
-	background: #F2F5F7;
+	background: #f3faed;
 }
 @media screen and (max-width: 787px) {
 	.first_flow > li dl {
@@ -1780,7 +1780,7 @@ a.ap {
 
 .disease-list {
 	text-decoration: underline;
-	color: #0099CC;
+	color: #2cab3d;
 }
 @media screen and (max-width:767px) {
 	.symptoms-container {
